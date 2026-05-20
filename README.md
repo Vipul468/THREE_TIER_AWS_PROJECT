@@ -2,12 +2,6 @@
 
 > A highly available, highly secured, highly scalable, and fault-tolerant three-tier web application deployed on Amazon Web Services.
 
-**Author:** Satyanarayan Sen  
-**GitHub:** [github.com/Satyanarayan4434](https://github.com/Satyanarayan4434)  
-**LinkedIn:** [linkedin.com/in/satyanarayan-sen](https://www.linkedin.com/in/satyanarayan-sen/)  
-**Source Code:** [Three_Tire_App_On_AWS](https://github.com/Satyanarayan4434/Three_Tire_App_On_AWS.git)
-
----
 
 ## Table of Contents
 
@@ -440,4 +434,4 @@ Delete resources in the following order to avoid dependency errors:
 
 ---
 
-*Documentation by Satyanarayan Sen — [GitHub](https://github.com/Satyanarayan4434) | [LinkedIn](https://www.linkedin.com/in/satyanarayan-sen/)*
+*Documentation by Vipul Sharma
